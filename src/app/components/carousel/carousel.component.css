@@ -1,0 +1,23 @@
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  gap: 10em;
+}
+img {
+  width: 400px;
+}
+
+h1 {
+  font-size: 3.5em;
+  width: 587px;
+  margin-bottom: 1em;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  background: #212529;
+  color: #fff;
+  border: none
+}
