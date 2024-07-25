@@ -1,0 +1,29 @@
+header{
+  align-items: center;
+  display: flex;
+  align-items: center;
+  gap: 8em;
+}
+
+.branding{
+  gap: 2em;
+}
+
+header input {
+  width: 22rem;
+}
+
+h1 {
+  margin: 0;
+  color: #fcfcfc;
+}
+ 
+header p {
+  margin: 0;
+  color: #fcfcfc;
+}
+
+header p:hover {
+  color: #72AEC8;
+}
+
